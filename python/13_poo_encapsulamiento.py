@@ -23,3 +23,6 @@ picolo.mostrar_info()
 print("---")
 josue.mostrar_info()
 print("---")
+
+print(vegeta.nombre)
+print(vegeta.get(poder))
